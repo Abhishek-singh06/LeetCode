@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
