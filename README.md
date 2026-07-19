@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [1765-merge-in-between-linked-lists](https://github.com/Abhishek-singh06/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+## Hash Table
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
