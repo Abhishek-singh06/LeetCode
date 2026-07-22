@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhishek-singh06/LeetCode/tree/master/0258-add-digits) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Abhishek-singh06/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
