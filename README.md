@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Abhishek-singh06/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
