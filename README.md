@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0258-add-digits](https://github.com/Abhishek-singh06/LeetCode/tree/master/0258-add-digits) |
 | [0633-sum-of-square-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Abhishek-singh06/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhishek-singh06/LeetCode/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
