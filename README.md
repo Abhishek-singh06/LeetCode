@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/0020-valid-parentheses) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2406-decode-the-message](https://github.com/Abhishek-singh06/LeetCode/tree/master/2406-decode-the-message) |
 ## Trie
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/0020-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
