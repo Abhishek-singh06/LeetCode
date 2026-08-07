@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0014-longest-common-prefix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh06/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishek-singh06/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/Abhishek-singh06/LeetCode/tree/master/2406-decode-the-message) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
