@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1833-find-the-highest-altitude](https://github.com/Abhishek-singh06/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Prefix Sum
 |  |
 | ------- |
+| [1833-find-the-highest-altitude](https://github.com/Abhishek-singh06/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
