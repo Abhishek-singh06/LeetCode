@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0189-rotate-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/Abhishek-singh06/LeetCode/tree/master/2406-decode-the-message) |
