@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Abhishek-singh06/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0136-single-number) |
 | [0461-hamming-distance](https://github.com/Abhishek-singh06/LeetCode/tree/master/0461-hamming-distance) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
