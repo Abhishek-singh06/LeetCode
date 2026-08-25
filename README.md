@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0014-longest-common-prefix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishek-singh06/LeetCode/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhishek-singh06/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0136-single-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/0169-majority-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhishek-singh06/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Game Theory
 |  |
