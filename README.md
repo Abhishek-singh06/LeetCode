@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0461-hamming-distance](https://github.com/Abhishek-singh06/LeetCode/tree/master/0461-hamming-distance) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-singh06/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh06/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishek-singh06/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Number Theory
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-singh06/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Quicksort
 |  |
 | ------- |
