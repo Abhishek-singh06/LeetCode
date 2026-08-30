@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0189-rotate-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Abhishek-singh06/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Abhishek-singh06/LeetCode/tree/master/0792-binary-search) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/Abhishek-singh06/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/Abhishek-singh06/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1833-find-the-highest-altitude](https://github.com/Abhishek-singh06/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0136-single-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0136-single-number) |
 | [0461-hamming-distance](https://github.com/Abhishek-singh06/LeetCode/tree/master/0461-hamming-distance) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
