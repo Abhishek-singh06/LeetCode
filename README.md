@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Abhishek-singh06/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1765-merge-in-between-linked-lists](https://github.com/Abhishek-singh06/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0344-reverse-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh06/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishek-singh06/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
