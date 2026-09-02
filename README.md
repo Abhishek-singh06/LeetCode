@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Abhishek-singh06/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1765-merge-in-between-linked-lists](https://github.com/Abhishek-singh06/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
