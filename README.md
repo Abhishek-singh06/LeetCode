@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhishek-singh06/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abhishek-singh06/LeetCode/tree/master/0231-power-of-two) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Abhishek-singh06/LeetCode/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-singh06/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
