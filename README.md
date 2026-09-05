@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Abhishek-singh06/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
