@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Abhishek-singh06/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Abhishek-singh06/LeetCode/tree/master/0231-power-of-two) |
