@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishek-singh06/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhishek-singh06/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Abhishek-singh06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/0169-majority-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/Abhishek-singh06/LeetCode/tree/master/2406-decode-the-message) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [4107-find-missing-elements](https://github.com/Abhishek-singh06/LeetCode/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
