@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4107-find-missing-elements](https://github.com/Abhishek-singh06/LeetCode/tree/master/4107-find-missing-elements) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## String
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2406-decode-the-message](https://github.com/Abhishek-singh06/LeetCode/tree/master/2406-decode-the-message) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4107-find-missing-elements](https://github.com/Abhishek-singh06/LeetCode/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh06/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishek-singh06/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Number Theory
 |  |
@@ -289,4 +293,16 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
