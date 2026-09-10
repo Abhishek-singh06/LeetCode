@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0061-rotate-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0075-sort-colors](https://github.com/Abhishek-singh06/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0344-reverse-string) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhishek-singh06/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/0169-majority-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -281,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Abhishek-singh06/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
