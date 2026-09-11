@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1448-maximum-69-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Abhishek-singh06/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1806-count-of-matches-in-tournament](https://github.com/Abhishek-singh06/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Abhishek-singh06/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-singh06/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0258-add-digits](https://github.com/Abhishek-singh06/LeetCode/tree/master/0258-add-digits) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek-singh06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1806-count-of-matches-in-tournament](https://github.com/Abhishek-singh06/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-singh06/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh06/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishek-singh06/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
