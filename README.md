@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/Abhishek-singh06/LeetCode/tree/master/3830-find-closest-person) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0053-maximum-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1013-fibonacci-number) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
 | ------- |
@@ -324,4 +326,5 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
