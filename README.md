@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek-singh06/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0020-valid-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek-singh06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
