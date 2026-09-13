@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0189-rotate-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Abhishek-singh06/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abhishek-singh06/LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Abhishek-singh06/LeetCode/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1448-maximum-69-number) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0050-powx-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Abhishek-singh06/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Abhishek-singh06/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-singh06/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
