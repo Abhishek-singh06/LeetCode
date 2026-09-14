@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [4107-find-missing-elements](https://github.com/Abhishek-singh06/LeetCode/tree/master/4107-find-missing-elements) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
+| [4271-find-the-degree-of-each-vertex](https://github.com/Abhishek-singh06/LeetCode/tree/master/4271-find-the-degree-of-each-vertex) |
 | [4280-count-digit-appearances](https://github.com/Abhishek-singh06/LeetCode/tree/master/4280-count-digit-appearances) |
 ## String
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0073-set-matrix-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1242-matrix-block-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/1242-matrix-block-sum) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhishek-singh06/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [4271-find-the-degree-of-each-vertex](https://github.com/Abhishek-singh06/LeetCode/tree/master/4271-find-the-degree-of-each-vertex) |
 ## Game Theory
 |  |
 | ------- |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [4271-find-the-degree-of-each-vertex](https://github.com/Abhishek-singh06/LeetCode/tree/master/4271-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
