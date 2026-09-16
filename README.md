@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Abhishek-singh06/LeetCode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/Abhishek-singh06/LeetCode/tree/master/0461-hamming-distance) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abhishek-singh06/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
