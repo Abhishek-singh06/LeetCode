@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Abhishek-singh06/LeetCode/tree/master/0155-min-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek-singh06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -352,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [4271-find-the-degree-of-each-vertex](https://github.com/Abhishek-singh06/LeetCode/tree/master/4271-find-the-degree-of-each-vertex) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Abhishek-singh06/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
