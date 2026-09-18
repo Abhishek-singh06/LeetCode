@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0792-binary-search](https://github.com/Abhishek-singh06/LeetCode/tree/master/0792-binary-search) |
 | [1242-matrix-block-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Abhishek-singh06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/Abhishek-singh06/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek-singh06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhishek-singh06/LeetCode/tree/master/0258-add-digits) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Abhishek-singh06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek-singh06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/Abhishek-singh06/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-singh06/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
