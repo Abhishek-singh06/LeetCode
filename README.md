@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0189-rotate-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Abhishek-singh06/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Abhishek-singh06/LeetCode/tree/master/0792-binary-search) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1242-matrix-block-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abhishek-singh06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
