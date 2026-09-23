@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh06/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishek-singh06/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhishek-singh06/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Abhishek-singh06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek-singh06/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2401-count-asterisks](https://github.com/Abhishek-singh06/LeetCode/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Abhishek-singh06/LeetCode/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Trie
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2406-decode-the-message](https://github.com/Abhishek-singh06/LeetCode/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhishek-singh06/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [4107-find-missing-elements](https://github.com/Abhishek-singh06/LeetCode/tree/master/4107-find-missing-elements) |
 ## Matrix
