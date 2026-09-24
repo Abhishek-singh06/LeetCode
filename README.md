@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1833-find-the-highest-altitude](https://github.com/Abhishek-singh06/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2571-find-the-pivot-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Abhishek-singh06/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2571-find-the-pivot-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
