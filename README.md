@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek-singh06/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4107-find-missing-elements](https://github.com/Abhishek-singh06/LeetCode/tree/master/4107-find-missing-elements) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/Abhishek-singh06/LeetCode/tree/master/3830-find-closest-person) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek-singh06/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4280-count-digit-appearances](https://github.com/Abhishek-singh06/LeetCode/tree/master/4280-count-digit-appearances) |
