@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2406-decode-the-message](https://github.com/Abhishek-singh06/LeetCode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
+| [4275-traffic-signal-color](https://github.com/Abhishek-singh06/LeetCode/tree/master/4275-traffic-signal-color) |
 ## Trie
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek-singh06/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
+| [4275-traffic-signal-color](https://github.com/Abhishek-singh06/LeetCode/tree/master/4275-traffic-signal-color) |
 | [4280-count-digit-appearances](https://github.com/Abhishek-singh06/LeetCode/tree/master/4280-count-digit-appearances) |
 ## Simulation
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
+| [4275-traffic-signal-color](https://github.com/Abhishek-singh06/LeetCode/tree/master/4275-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
