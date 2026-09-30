@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1242-matrix-block-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abhishek-singh06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1635-number-of-good-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/Abhishek-singh06/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek-singh06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1013-fibonacci-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Abhishek-singh06/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1635-number-of-good-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1806-count-of-matches-in-tournament](https://github.com/Abhishek-singh06/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Abhishek-singh06/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0169-majority-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Queue
