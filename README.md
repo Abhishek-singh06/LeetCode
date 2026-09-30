@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [4256-construct-uniform-parity-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4275-traffic-signal-color](https://github.com/Abhishek-singh06/LeetCode/tree/master/4275-traffic-signal-color) |
 | [4280-count-digit-appearances](https://github.com/Abhishek-singh06/LeetCode/tree/master/4280-count-digit-appearances) |
+| [4332-check-good-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/4332-check-good-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
 | [4275-traffic-signal-color](https://github.com/Abhishek-singh06/LeetCode/tree/master/4275-traffic-signal-color) |
+| [4332-check-good-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/4332-check-good-integer) |
 ## Number Theory
 |  |
 | ------- |
