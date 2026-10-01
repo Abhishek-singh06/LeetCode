@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0029-divide-two-integers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Abhishek-singh06/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Abhishek-singh06/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Abhishek-singh06/LeetCode/tree/master/0461-hamming-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Abhishek-singh06/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1013-fibonacci-number) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Geometry
