@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0148-sort-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0073-set-matrix-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0050-powx-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhishek-singh06/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abhishek-singh06/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Abhishek-singh06/LeetCode/tree/master/0326-power-of-three) |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Abhishek-singh06/LeetCode/tree/master/0155-min-stack) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
