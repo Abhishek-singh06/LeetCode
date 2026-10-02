@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0029-divide-two-integers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abhishek-singh06/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0202-happy-number) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Abhishek-singh06/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1013-fibonacci-number) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
