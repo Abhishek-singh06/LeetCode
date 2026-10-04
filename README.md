@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2406-decode-the-message](https://github.com/Abhishek-singh06/LeetCode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh06/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
 | [4275-traffic-signal-color](https://github.com/Abhishek-singh06/LeetCode/tree/master/4275-traffic-signal-color) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh06/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh06/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Abhishek-singh06/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh06/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
