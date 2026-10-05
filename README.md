@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1505-create-target-array-in-the-given-order](https://github.com/Abhishek-singh06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1635-number-of-good-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1752-arithmetic-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Abhishek-singh06/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek-singh06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/Abhishek-singh06/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0202-happy-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1752-arithmetic-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishek-singh06/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0148-sort-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/0169-majority-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1752-arithmetic-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
