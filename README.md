@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0344-reverse-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/Abhishek-singh06/LeetCode/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
