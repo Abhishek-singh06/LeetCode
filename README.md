@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhishek-singh06/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhishek-singh06/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Abhishek-singh06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh06/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2401-count-asterisks](https://github.com/Abhishek-singh06/LeetCode/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Abhishek-singh06/LeetCode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhishek-singh06/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh06/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
