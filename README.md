@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3055-maximum-odd-binary-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh06/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
 | [4275-traffic-signal-color](https://github.com/Abhishek-singh06/LeetCode/tree/master/4275-traffic-signal-color) |
 ## Trie
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh06/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Bracket Sequences
 |  |
