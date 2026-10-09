@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek-singh06/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4044-count-good-cyclic-rotations](https://github.com/Abhishek-singh06/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 | [4107-find-missing-elements](https://github.com/Abhishek-singh06/LeetCode/tree/master/4107-find-missing-elements) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [4044-count-good-cyclic-rotations](https://github.com/Abhishek-singh06/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4044-count-good-cyclic-rotations](https://github.com/Abhishek-singh06/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 ## Greedy
 |  |
 | ------- |
