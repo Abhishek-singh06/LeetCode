@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0014-longest-common-prefix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishek-singh06/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Abhishek-singh06/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Abhishek-singh06/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Abhishek-singh06/LeetCode/tree/master/0046-permutations) |
 | [1079-letter-tile-possibilities](https://github.com/Abhishek-singh06/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhishek-singh06/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
