@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2238-a-number-after-a-double-reversal](https://github.com/Abhishek-singh06/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhishek-singh06/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Brainteaser
 |  |
 | ------- |
