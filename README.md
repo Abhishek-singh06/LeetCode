@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1755-defuse-the-bomb](https://github.com/Abhishek-singh06/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek-singh06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/Abhishek-singh06/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhishek-singh06/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Abhishek-singh06/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhishek-singh06/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh06/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/0169-majority-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/1752-arithmetic-subarrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
