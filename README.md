@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2367-number-of-arithmetic-triplets](https://github.com/Abhishek-singh06/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhishek-singh06/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhishek-singh06/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Abhishek-singh06/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2571-find-the-pivot-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
