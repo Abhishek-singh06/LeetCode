@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek-singh06/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4044-count-good-cyclic-rotations](https://github.com/Abhishek-singh06/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 | [4107-find-missing-elements](https://github.com/Abhishek-singh06/LeetCode/tree/master/4107-find-missing-elements) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Abhishek-singh06/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4044-count-good-cyclic-rotations](https://github.com/Abhishek-singh06/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 ## Hash Table
 |  |
