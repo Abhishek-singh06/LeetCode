@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishek-singh06/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abhishek-singh06/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Abhishek-singh06/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Abhishek-singh06/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1833-find-the-highest-altitude](https://github.com/Abhishek-singh06/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abhishek-singh06/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Abhishek-singh06/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Abhishek-singh06/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2571-find-the-pivot-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0073-set-matrix-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1242-matrix-block-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/1242-matrix-block-sum) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Abhishek-singh06/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhishek-singh06/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh06/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/Abhishek-singh06/LeetCode/tree/master/4271-find-the-degree-of-each-vertex) |
