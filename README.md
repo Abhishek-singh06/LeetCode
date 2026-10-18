@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2876-number-of-employees-who-met-the-target](https://github.com/Abhishek-singh06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh06/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh06/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh06/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1755-defuse-the-bomb](https://github.com/Abhishek-singh06/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishek-singh06/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh06/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
