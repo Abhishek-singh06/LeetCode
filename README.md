@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1241-decompress-run-length-encoded-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1242-matrix-block-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abhishek-singh06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0075-sort-colors](https://github.com/Abhishek-singh06/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/0169-majority-element) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
