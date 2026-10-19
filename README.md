@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2367-number-of-arithmetic-triplets](https://github.com/Abhishek-singh06/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Abhishek-singh06/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Abhishek-singh06/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhishek-singh06/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-singh06/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh06/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishek-singh06/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhishek-singh06/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Abhishek-singh06/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1242-matrix-block-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/1242-matrix-block-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Abhishek-singh06/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhishek-singh06/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhishek-singh06/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh06/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/Abhishek-singh06/LeetCode/tree/master/4271-find-the-degree-of-each-vertex) |
