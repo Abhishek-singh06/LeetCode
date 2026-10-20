@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1078-remove-outermost-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/Abhishek-singh06/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek-singh06/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-singh06/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishek-singh06/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
