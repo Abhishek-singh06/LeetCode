@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek-singh06/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh06/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishek-singh06/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abhishek-singh06/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Abhishek-singh06/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Abhishek-singh06/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1752-arithmetic-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhishek-singh06/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Abhishek-singh06/LeetCode/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhishek-singh06/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
