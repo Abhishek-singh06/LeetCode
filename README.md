@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0792-binary-search](https://github.com/Abhishek-singh06/LeetCode/tree/master/0792-binary-search) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1242-matrix-block-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Abhishek-singh06/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhishek-singh06/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abhishek-singh06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Abhishek-singh06/LeetCode/tree/master/0792-binary-search) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Abhishek-singh06/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishek-singh06/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Abhishek-singh06/LeetCode/tree/master/0506-relative-ranks) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Abhishek-singh06/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Abhishek-singh06/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/1752-arithmetic-subarrays) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0073-set-matrix-zeroes](https://github.com/Abhishek-singh06/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-singh06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1242-matrix-block-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Abhishek-singh06/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Abhishek-singh06/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhishek-singh06/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhishek-singh06/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishek-singh06/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Abhishek-singh06/LeetCode/tree/master/0506-relative-ranks) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Abhishek-singh06/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Abhishek-singh06/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
