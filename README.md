@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek-singh06/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhishek-singh06/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Abhishek-singh06/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2401-count-asterisks](https://github.com/Abhishek-singh06/LeetCode/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Abhishek-singh06/LeetCode/tree/master/2406-decode-the-message) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhishek-singh06/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Abhishek-singh06/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhishek-singh06/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhishek-singh06/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh06/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
