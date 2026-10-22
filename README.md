@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2032-largest-odd-number-in-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Abhishek-singh06/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2427-number-of-common-factors](https://github.com/Abhishek-singh06/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2481-strictly-palindromic-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2571-find-the-pivot-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/2571-find-the-pivot-integer) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0258-add-digits](https://github.com/Abhishek-singh06/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Abhishek-singh06/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek-singh06/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
 |  |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhishek-singh06/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abhishek-singh06/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2427-number-of-common-factors](https://github.com/Abhishek-singh06/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Abhishek-singh06/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
@@ -513,4 +516,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Abhishek-singh06/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Abhishek-singh06/LeetCode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Abhishek-singh06/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
