@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3055-maximum-odd-binary-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh06/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Abhishek-singh06/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Abhishek-singh06/LeetCode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2481-strictly-palindromic-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Abhishek-singh06/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
