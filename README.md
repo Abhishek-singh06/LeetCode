@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhishek-singh06/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhishek-singh06/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh06/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Abhishek-singh06/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhishek-singh06/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhishek-singh06/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Abhishek-singh06/LeetCode/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhishek-singh06/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Brainteaser
 |  |
 | ------- |
