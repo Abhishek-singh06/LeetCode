@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2876-number-of-employees-who-met-the-target](https://github.com/Abhishek-singh06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh06/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Abhishek-singh06/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2998-count-symmetric-integers](https://github.com/Abhishek-singh06/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh06/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Abhishek-singh06/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3371-harshad-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/3371-harshad-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
