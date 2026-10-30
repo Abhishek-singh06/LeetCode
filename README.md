@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-singh06/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishek-singh06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Abhishek-singh06/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Abhishek-singh06/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2427-number-of-common-factors](https://github.com/Abhishek-singh06/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2481-strictly-palindromic-number](https://github.com/Abhishek-singh06/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek-singh06/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/Abhishek-singh06/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhishek-singh06/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Abhishek-singh06/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh06/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhishek-singh06/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhishek-singh06/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
