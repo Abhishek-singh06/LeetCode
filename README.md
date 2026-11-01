@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek-singh06/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Abhishek-singh06/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Abhishek-singh06/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhishek-singh06/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhishek-singh06/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Abhishek-singh06/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Abhishek-singh06/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-singh06/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek-singh06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4216-weighted-word-mapping](https://github.com/Abhishek-singh06/LeetCode/tree/master/4216-weighted-word-mapping) |
